@@ -1,0 +1,4 @@
+# Ignore internal tools and private PDF
+tools/
+Linked-Profile.pdf
+*.tmp
